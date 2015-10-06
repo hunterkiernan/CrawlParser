@@ -1,0 +1,9 @@
+c:\users\hunter\documents\visual studio 2013\Projects\CrawlParser\CrawlParser\bin\Debug\CrawlParser.exe.config
+C:\Users\Hunter\Documents\Visual Studio 2013\Projects\CrawlParser\CrawlParser\bin\Debug\CrawlParser.exe
+C:\Users\Hunter\Documents\Visual Studio 2013\Projects\CrawlParser\CrawlParser\bin\Debug\CrawlParser.pdb
+C:\Users\Hunter\Documents\Visual Studio 2013\Projects\CrawlParser\CrawlParser\obj\Debug\CrawlParser.exe
+C:\Users\Hunter\Documents\Visual Studio 2013\Projects\CrawlParser\CrawlParser\obj\Debug\CrawlParser.pdb
+C:\Users\Hunter\Documents\Visual Studio 2013\Projects\CrawlParser\CrawlParser\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Hunter\Documents\Visual Studio 2013\Projects\CrawlParser\CrawlParser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Hunter\Documents\Visual Studio 2013\Projects\CrawlParser\CrawlParser\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Hunter\Documents\Visual Studio 2013\Projects\CrawlParser\CrawlParser\obj\Debug\CrawlParser.csprojResolveAssemblyReference.cache
